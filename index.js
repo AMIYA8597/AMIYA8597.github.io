@@ -38,7 +38,7 @@ function typeWriter() {
       }
   };
 
-  GitHubCalendar(".calendar", "vikashgitkit", {
+  GitHubCalendar(".calendar", "AMIYA8597", {
     responsive: true,
     global_stats: false,
     tooltips: true,
